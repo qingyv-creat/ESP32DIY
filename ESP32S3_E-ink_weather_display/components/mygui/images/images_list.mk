@@ -1,0 +1,1 @@
+GEN_CSRCS += _ww_RGB565A8_320x240.c _chengshi_RGB565A8_48x48.c _tianqi_RGB565A8_48x48.c _wenshidu_RGB565A8_48x48.c
